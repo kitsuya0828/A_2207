@@ -2,7 +2,14 @@
 
 [![](https://img.youtube.com/vi/9WgERDJqyWw/0.jpg)](https://www.youtube.com/watch?v=9WgERDJqyWw)
 
-- [Demo](https://jphacks-2022-4839e.web.app/)
+https://github.com/user-attachments/assets/a1c133d3-61a5-4799-ad6a-fa431af52a80
+
+> [!IMPORTANT]
+> -	This repository was forked from [jphacks/A_2207](https://github.com/jphacks/A_2207).
+> - Several patches, primarily concerning package updates, were applied by one of the contributors.
+> - The frontend has been newly hosted on Vercel.
+
+- [Demo](https://a-2207.vercel.app/)
 - [Introduction Video](https://www.youtube.com/watch?v=9WgERDJqyWw)
 - [Project Slides](https://docs.google.com/presentation/d/e/2PACX-1vSxiOUiUHX491jBv0By4766e__TArTILHYUkJtYw2rC7eq8UwANoWotcnNaU4Ve7A64VqYLGM-q7f2v/pub?start=false&loop=false&delayms=3000)
 

@@ -5,7 +5,7 @@ interface UserInfoProps {
   name: string
 }
 
-export function UserInfo({ avatar, name }: UserInfoProps) {
+export function UserInfo({ name }: UserInfoProps) {
   return (
     <Paper
       radius="md"

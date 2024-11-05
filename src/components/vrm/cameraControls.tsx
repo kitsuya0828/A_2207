@@ -16,9 +16,9 @@ import {
   Spherical,
   Box3,
   Sphere,
-  Raycaster,
   MathUtils,
 } from 'three'
+import { Raycaster } from 'three/src/Three'
 import { ReactThreeFiber, extend, useFrame, useThree } from '@react-three/fiber'
 import CameraControlsDefault from 'camera-controls'
 import { useSettingsStore } from 'src/stores/settingsStore'

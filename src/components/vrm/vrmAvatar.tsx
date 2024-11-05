@@ -85,7 +85,7 @@ export const VRMAvatar = () => {
   useEffect(() => {
     setLoaded(false)
     gl.outputEncoding = THREE.sRGBEncoding
-    light = new THREE.DirectionalLight(0xffffff)
+    light = new THREE.DirectionalLight(0xffffff, 3.0)
     light.position.set(-1.0, 1.0, 1.0).normalize()
     light.castShadow = true
     scene.add(light)

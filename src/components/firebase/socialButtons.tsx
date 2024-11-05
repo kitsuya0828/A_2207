@@ -1,4 +1,4 @@
-import { Button, ButtonProps, Group } from '@mantine/core';
+import { Button, ButtonProps } from '@mantine/core';
 import { TwitterIcon } from '@mantine/ds';
 
 export function FacebookIcon(props: React.ComponentProps<'svg'>) {
